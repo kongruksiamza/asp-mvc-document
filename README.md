@@ -12,7 +12,7 @@
 ## 🎯 เครื่องมือที่ใช้
 - [Visual Studio Community 2022](https://visualstudio.microsoft.com/)
 - [SQL Server 2022](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
 ## 💎 Connection Strings
 "ConnectionStrings": { "DefaultConnection": "Server=ชื่อ Sever;
