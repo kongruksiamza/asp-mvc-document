@@ -25,3 +25,7 @@
 - Microsoft.EntityFrameworkcore
 - Microsoft.EntityFrameworkcore.sqlserver
 - Microsoft.EntityFrameworkcore.Tools
+
+## 🗒 Package Manager Console (PM Command)
+- Add-migration
+- Update-database
