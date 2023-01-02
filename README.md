@@ -22,9 +22,9 @@
 }
 
 ## 🎨 Nuget Package
-- Microsoft.EntityFrameworkcore
-- Microsoft.EntityFrameworkcore.sqlserver
-- Microsoft.EntityFrameworkcore.Tools
+- Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.Tools
+- Microsoft.EntityFrameworkCore.SqlServer
 
 ## 👨‍💻 Package Manager Console (PM Command)
 - Add-migration
