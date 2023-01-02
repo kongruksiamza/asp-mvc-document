@@ -20,3 +20,6 @@
 					     Trusted_Connection=True;
 					     TrustServerCertificate=True" 
 }
+
+## 🎯 Nuget Package
+- [Microsoft.EntityFrameworkcore]
