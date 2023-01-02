@@ -14,7 +14,7 @@
 - [SQL Server 2022](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
-## 💎 Connection String
+## 💎 Connection Strings
 "ConnectionStrings": { "DefaultConnection": "Server=ชื่อ Sever;
 					     Database=ชื่อฐานข้อมูล;
 					     Trusted_Connection=True;
