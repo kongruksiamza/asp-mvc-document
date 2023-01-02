@@ -27,5 +27,5 @@
 - Microsoft.EntityFrameworkCore.SqlServer
 
 ## 👨‍💻 Package Manager Console (PM Command)
-- add-migration <migration>
+- add-migration<migration>
 - update-database
