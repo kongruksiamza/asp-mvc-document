@@ -15,11 +15,13 @@
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
 ## 💎 Connection Strings
+```
 "ConnectionStrings": { "DefaultConnection": "Server=ชื่อ Sever;
 					     Database=ชื่อฐานข้อมูล;
 					     Trusted_Connection=True;
 					     TrustServerCertificate=True" 
 }
+```
 
 ## 🎨 Nuget Package
 - Microsoft.EntityFrameworkCore
