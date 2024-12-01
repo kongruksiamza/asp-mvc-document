@@ -32,11 +32,6 @@
 - add-migration
 - update-database
 
-## 🚀 Guideline & Documents
-- แนวทางการเรียนรู้การเขียนโปรแกรมภาษา C# (C# Guideline) [อ่านบทความ](https://github.com/kongruksiamza/cs-guideline)
-- แนวทางการเรียนรู้การพัฒนาเว็บแอพพลิเคชั่น (Web Development) [อ่านบทความ](https://github.com/kongruksiamza/web-guideline)
-- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
-
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 <div id="badges">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
