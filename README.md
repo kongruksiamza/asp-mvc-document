@@ -1,4 +1,4 @@
-# 📖 คู่มือประกอบการสอน ASP.NET Core MVC (.NET 7)
+## 📖 คู่มือประกอบการสอน ASP.NET Core MVC (.NET 7)
 
 ## 🎓 พื้นฐานที่ต้องเรียนมาก่อน (ฟรี)
 - [HTML5](https://www.youtube.com/playlist?list=PLltVQYLz1BMDf-N2ZmyJKEv4VlpM_9m67)
@@ -43,6 +43,9 @@
     <a href="https://www.udemy.com/user/kong-ruksiam/" target="_blank">
     <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
   </a>
+<a href="https://www.youtube.com/@KongRuksiamOfficial/store" target="_blank">
+    <img src="https://img.shields.io/badge/Shopee-EE4D2D?style=for-the-badge&logo=Shopee&logoColor=white"/>
+  </a>	
   <a href="https://medium.com/@kongruksiam" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
